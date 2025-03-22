@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlignY=38"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=140&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+sou+o+Gabriel+Oliveira+Desenvolvedor+Front-end+💻;Bem-vindo+ao+Meu+GitHub+👍)](https://github.com/Gbznoliver)
 
@@ -11,7 +11,7 @@
 
 #### Estudando :
 
-[![Habilidades](https://skillicons.dev/icons?i=js,,git,github,bootstrap,react,tailwindcss)](https://github.com/IBrunooDev)
+[![Habilidades](https://skillicons.dev/icons?i=js,,git,github,bootstrap,react,tailwindcss)](https://github.com/GbznOliver)
 
 #### Ferramentas de Trabalho :
 
