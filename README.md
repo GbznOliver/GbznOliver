@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+sou+o+Gabriel+Oliveira+Desenvolvedor+Front-end+💻;Bem-vindo+ao+Meu+GitHub+👍)](https://github.com/Gbznoliver)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=+Oi+sou+o+Gabriel+Oliveira+Desenvolvedor+Front-end+💻;Bem-vindo+ao+Meu+GitHub+👍)](https://github.com/Gbznoliver)
 
 <p align="center">Tenho 18 anos e estou no processo de transição de carreira para me tornar um Desenvolvedor Front-End. Minha paixão por tecnologia e por desafios me levam a buscar cada vez mais novas maneiras de aprender e crescer na área.</p>
  
@@ -11,7 +11,7 @@
 
 #### Estudando :
 
-[![Habilidades](https://skillicons.dev/icons?i=js,,git,github,bootstrap,react,tailwindcss)](https://github.com/GbznOliver)
+[![Habilidades](https://skillicons.dev/icons?i=js,git,github,bootstrap,react,tailwindcss)](https://github.com/GbznOliver)
 
 #### Ferramentas de Trabalho :
 
