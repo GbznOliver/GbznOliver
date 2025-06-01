@@ -9,10 +9,13 @@
 
 [![HTML-CSS](https://skillicons.dev/icons?i=html,css)](https://github.com/Gbznoliver)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Estudando :
 
 [![Habilidades](https://skillicons.dev/icons?i=js,git,github,bootstrap,react,tailwindcss)](https://github.com/GbznOliver)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Ferramentas de Trabalho :
 
