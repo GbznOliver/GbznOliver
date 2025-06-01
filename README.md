@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=140&section=header"/>
+<!--Gif Ondas-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=140&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=+Oi+sou+o+Gabriel+Desenvolvedor+Front-end+💻;Bem-vindo+ao+Meu+GitHub+👍)](https://github.com/Gbznoliver)
 
