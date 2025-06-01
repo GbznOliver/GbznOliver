@@ -6,7 +6,7 @@
 <p align="center">Tenho 18 anos e estou no processo de transição de carreira para me tornar um Desenvolvedor Front-End. Minha paixão por tecnologia e por desafios me levam a buscar cada vez mais novas maneiras de aprender e crescer na área.</p>
  
 ## Conhecimento em :
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 [![HTML-CSS](https://skillicons.dev/icons?i=html,css)](https://github.com/Gbznoliver)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
