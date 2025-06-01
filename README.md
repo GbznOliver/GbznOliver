@@ -27,7 +27,7 @@
 ### ⚙️ - Contatos :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto: gleal2985@gmail.com")
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:gleal2985@gmail.com)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-de-oliveira-088108340/)
 
 
