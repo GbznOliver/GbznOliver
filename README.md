@@ -1,5 +1,5 @@
 <!--Gif Ondas-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=140&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=+Oi+sou+o+Gabriel+Desenvolvedor+Front-end+💻;Bem-vindo+ao+Meu+GitHub+👍)](https://github.com/Gbznoliver)
 
@@ -9,19 +9,19 @@
 ### ⚙️ - Minhas Habilidades :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![HTML-CSS-JS](https://skillicons.dev/icons?i=html,css,js)](https://github.com/IBrunooDev)
+[![HTML-CSS-JS](https://skillicons.dev/icons?i=html,css,js,sass)]
 
 <!--Estudando no momento-->
 ### ⚙️ - Em andamento :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Habilidades](https://skillicons.dev/icons?i=js,ts,git,github,tailwind,react,nextjs)](https://github.com/IBrunooDev)
+[![Habilidades](https://skillicons.dev/icons?i=js,git,github,tailwind,react,)]
 
 <!--Ferramentas de Trabalho-->
 ### ⚙️ - Ferramentas de Trabalho :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Ferramentas de Trabalho](https://skillicons.dev/icons?i=windows,vscode,notion)](https://github.com/IBrunooDev)
+[![Ferramentas de Trabalho](https://skillicons.dev/icons?i=windows,vscode,notion)]
 
 <!--Area de Contato-->
 ### ⚙️ - Contatos :
